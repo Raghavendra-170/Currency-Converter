@@ -43,7 +43,7 @@ Currency-Converter/
    ```
 ## Compile the Java program
 ```
-   javac CurrencyConverter.java
+   javac src/CurrencyConverter.java
 ```
 ## Run the program:
 ```
