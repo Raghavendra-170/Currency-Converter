@@ -9,8 +9,8 @@ public class CurrencyConverter {
 		System.out.println("Welcome to Currency Converter!");
 		System.out.println("1. USD to Rupee");
 		System.out.println("2. Rupee to USD");
-		System.out.println("1. Euro to Rupee");
-		System.out.println("1. Rupee to Euro");
+		System.out.println("3. Euro to Rupee");
+		System.out.println("4. Rupee to Euro");
 		System.out.print("Enter your choice (1 or 2 or 3 or 4): ");
 	    int choice = sc.nextInt();
 	    
