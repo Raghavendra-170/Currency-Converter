@@ -25,12 +25,12 @@ A simple console-based currency converter built using **Core Java**. This progra
 ---
 
 ## 📂 Project Structure
-
+```
 Currency-Converter/
 ├── src/
 │ └── CurrencyConverter.java
 ├── README.md
-
+```
 
 ---
 
@@ -64,3 +64,4 @@ Converted amount in Rupee: ₹8694.0
 ```
 ## 📄 License
 This project is licensed under the MIT License.
+
